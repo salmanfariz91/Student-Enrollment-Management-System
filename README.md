@@ -1,5 +1,5 @@
 # Student-Enrollment-Management-System
-“I built a full-stack Student Management System in Zoho Creator integrated with Zoho CRM &amp; Zoho Catalyst.
+“I built a full-stack Student Management System in Zoho Creator, integrated with Zoho CRM & Zoho Catalyst.
 🔑 Modules (Forms & Fields)
 1. Student Registration Form
 
@@ -66,6 +66,8 @@ Student → View their own details + payment history.
 Zoho Books / Invoice → Auto-create invoice on payment.
 
 Zoho Mail → Send welcome emails & reminders.
+
+Zoho Crm -leads manage.
 
 API → Expose student enrollment API (to show you know integrations).
 
